@@ -1,9 +1,74 @@
 .título{
-    font-size: 60px;
+    font-size: 54px;
+    padding: 10px;
+    margin: 15px 0px;
     color: brown;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Playfair Display', serif;
+    border-bottom: 2px solid slategrey;
+}
+
+.principal{
+    margin: 0 250px;
+}
+
+.apresentacao_receita{
+    display: flex;
+    font-family: 'Lora', serif;
+
+}
+.subtitulo{
+    margin: 25px 0px;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+
+.imagem_costelinha{
+    
+    margin: 15px;
+  
+    height: fit-content;
+}
+
+.descricao_receita{
+
+    padding: 10px;
+    font-size: 20px;
+    line-height: 1.7em;
+
+    width: 350px;
+}
+
+.titulo_receita{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold ;
+    font-size: 35px;
+}
+.ingredientes{
+
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    line-height: 2em;
+    width: 70%;
+    list-style:disc;
+}
+.modo_de_prep{
+
+    font-size: 18px;
+    width: 50%;
+    font-family: 'Lora', serif;
+    list-style-type: decimal;
+}
+
+li{
+    margin: 16px;
 }
 
 .imagem{
-    height: 200px;
+    height: 300px;
 }
+.corpo_receita{
+    margin: 2em;
+}
+
+
