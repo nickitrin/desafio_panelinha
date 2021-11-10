@@ -1,2 +1,2 @@
 # desafio_panelinha
-Um exercício sobre panelinhasm HTML e CSS.
+Um exercício sobre panelinhas, HTML e CSS.
